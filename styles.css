@@ -1,0 +1,72 @@
+.col-4 {
+  border: 1px solid blue;
+}
+
+.height {
+  height: 250px;
+  width: 50%;
+}
+
+#indexImg {
+  width: 100%;
+}
+
+.footerColor {
+  background-color: #cccccc;
+  border-top: 3px solid teal;
+  color: black;
+}
+
+.position {
+  position: relative;
+}
+
+#projectOne {
+  position: absolute;
+  text-align: center;
+  height: 36px;
+  width: 100%;
+  background-color: teal;
+  color: black;
+  top: 74%;
+  z-index: 2;
+}
+
+#projectTwo {
+  position: absolute;
+  text-align: center;
+  height: 36px;
+  width: 100%;
+  background-color: teal;
+  color: black;
+  top: 74%;
+  z-index: 2;
+}
+
+#projectThree {
+  position: absolute;
+  text-align: center;
+  height: 36px;
+  width: 100%;
+  background-color: teal;
+  color: black;
+  top: 74%;
+}
+
+#projectFour {
+  position: absolute;
+  text-align: center;
+  height: 36px;
+  width: 100%;
+  background-color: teal;
+  color: black;
+  top: 74%;
+}
+
+.push {
+  top: 74%;
+}
+
+.padding {
+  padding: 20px;
+}
