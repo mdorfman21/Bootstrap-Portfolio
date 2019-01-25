@@ -70,3 +70,8 @@
 .padding {
   padding: 20px;
 }
+
+h2 {
+  background-color: teal;
+  color: black;
+}
