@@ -22,10 +22,10 @@
 }
 
 #projectOne {
-  position: absolute;
+  position: relative;
   text-align: center;
   height: 36px;
-  width: 100%;
+
   background-color: teal;
   color: black;
   top: 74%;
@@ -33,10 +33,10 @@
 }
 
 #projectTwo {
-  position: absolute;
+  position: relative;
   text-align: center;
   height: 36px;
-  width: 100%;
+
   background-color: teal;
   color: black;
   top: 74%;
@@ -44,7 +44,7 @@
 }
 
 #projectThree {
-  position: absolute;
+  position: relative;
   text-align: center;
   height: 36px;
   width: 100%;
@@ -54,7 +54,7 @@
 }
 
 #projectFour {
-  position: absolute;
+  position: relative;
   text-align: center;
   height: 36px;
   width: 100%;
@@ -74,4 +74,30 @@
 h2 {
   background-color: teal;
   color: black;
+}
+
+.image-one {
+  background-image: url(./images/placeholder1.jpg);
+  height: 250px;
+}
+
+.image-two {
+  background-image: url(./images/placeholder2.jpg);
+  height: 250px;
+}
+
+.image-three {
+  background-image: url(./images/placeholder3.jpg);
+  height: 250px;
+
+  padding: 0px;
+}
+
+.image-four {
+  background-image: url(./images/placeholder4.jpg);
+  height: 250px;
+}
+
+.col-lg-6 {
+  margin-right: 5px;
 }
