@@ -15,6 +15,7 @@
   background-color: #cccccc;
   border-top: 3px solid teal;
   color: black;
+  margin-top: 10px;
 }
 
 .position {
@@ -25,7 +26,6 @@
   position: relative;
   text-align: center;
   height: 36px;
-
   background-color: teal;
   color: black;
   top: 74%;
@@ -36,7 +36,6 @@
   position: relative;
   text-align: center;
   height: 36px;
-
   background-color: teal;
   color: black;
   top: 74%;
@@ -97,7 +96,6 @@ h2 {
   background-image: url(./images/placeholder4.jpg);
   height: 250px;
 }
-
-.col-lg-6 {
-  margin-right: 5px;
+.margin {
+  margin-bottom: 20px;
 }
