@@ -99,3 +99,7 @@ h2 {
 .margin {
   margin-bottom: 20px;
 }
+
+p {
+  text-indent: 20px;
+}
